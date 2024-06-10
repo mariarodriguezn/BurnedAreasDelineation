@@ -1,1 +1,1 @@
-# BurnedAreasDelineation
+# Burned Areas Delineation
