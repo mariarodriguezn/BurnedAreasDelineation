@@ -1,5 +1,5 @@
 #  Burned Areas Delineation
-In this repository, it is shared the source code used for the Master Thesis "Delineation of Burned Areas on SPOT 6/7 Imagery for Emergency Management"
+In this repository, it is shared the source code used in the Master Thesis "Delineation of Burned Areas on SPOT 6/7 Imagery for Emergency Management"
 
 ## About
 After a wildfire, delineating burned areas is crucial to quantify damages and support informed recovery and remediation strategies for affected ecosystems and populations. Current approaches for mapping burned areas mainly rely on computer vision models trained with post-event remote sensing imagery. However, these models typically focus on improving delineation performance and often overlook their applicability to time-constrained emergency management scenarios. 
