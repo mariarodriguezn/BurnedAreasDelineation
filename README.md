@@ -11,10 +11,12 @@ This study presents a supervised semantic segmentation workflow designed to enha
 
 **Figure Abreviations:**
 * STF - MTF: Single and Multi Task Frameworks
+* NDVI, NDWI, BAI: Spectral Indices
 * CM: Cloud Mask
 * TTA: Test-Time Augmentation
 * MP: Mixed Precision
-* NDVI, NDWI, BAI: Spectral Indices
+* FP: Floating Point
+
 
 <img src="https://github.com/mariarodriguezn/BurnedAreasDelineation/blob/main/docs/Methodology.png" alt="Methodology" width="700">
 
